@@ -1,8 +1,8 @@
 # Body Prakriti Detector
 
-### Course: Indian Health, Wellness and Psychology (7th Semester)  
-### Created by: Yasvi Chokhawala  
-### Institute: Asha M. Tarsadia Institute of Computer Science and Technology (AMTICS), Uka Tarsadia University  
+Course: Indian Health, Wellness and Psychology (7th Semester)  
+Created by: Yasvi Chokhawala  
+Institute: Asha M. Tarsadia Institute of Computer Science and Technology (AMTICS), Uka Tarsadia University  
 
 ---
 
