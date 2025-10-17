@@ -34,8 +34,8 @@ Developed as part of the course **“Indian Health, Wellness and Psychology”**
 
 ---
 
-## Project Structure
-``````body-prakriti-detector/
+``````(## Project Structure
+body-prakriti-detector/
 │
 ├── client/ # React frontend
 │ ├── public/
@@ -57,7 +57,7 @@ Developed as part of the course **“Indian Health, Wellness and Psychology”**
 ├── README.md # Project documentation
 └── docs/
 └── documentation.md # Detailed conceptual report (optional)
-
+``````)
 # Install Dependencies
 
 Backend setup:
